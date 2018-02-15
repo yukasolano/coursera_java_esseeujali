@@ -1,0 +1,4 @@
+<dataset>
+	<USUARIO LOGIN="joao" NOME="Joao Pedro" SENHA="senhajoao" PONTUACAO="7" />
+	<USUARIO LOGIN="maria" NOME="Maria Tereza" SENHA="senhamaria" PONTUACAO="20" />
+</dataset>

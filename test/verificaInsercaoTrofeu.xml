@@ -1,0 +1,7 @@
+<dataset>
+        <USUARIO LOGIN="joao" NOME="Joao Pedro" SENHA="senhajoao" PONTUACAO="5" />
+	<USUARIO LOGIN="maria" NOME="Maria Tereza" SENHA="senhamaria" PONTUACAO="20" />
+        <TROFEU LOGIN="joao" TROFEU="Leitor de Fantasia" />
+        <TROFEU LOGIN="joao" TROFEU="Leitor de Ficção" />
+        <TROFEU LOGIN="maria" TROFEU="Leitor de Fantasia" />
+</dataset>

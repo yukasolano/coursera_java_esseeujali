@@ -1,0 +1,10 @@
+<dataset>
+	<USUARIO LOGIN="joao" NOME="Joao Pedro" SENHA="senhajoao" PONTUACAO="5" />
+	<USUARIO LOGIN="maria" NOME="Maria Tereza" SENHA="senhamaria" PONTUACAO="20" />
+        <LIVRO ID="1" TITULO="O senhor dos anéis" ESCRITOR="J. R. R. Tolkien" ESTILO="Fantasia" PAGINAS="1202" />
+        <LIVRO ID="2" TITULO="O Guia do Mochileiro Das Galáxias " ESCRITOR="Douglas Adams" ESTILO="Ficção" PAGINAS="208" />
+        <TROFEU LOGIN="joao" TROFEU="Leitor de Fantasia" />
+        <TROFEU LOGIN="joao" TROFEU="Leitor de Ficção" />
+        <LIVRO_LIDO LOGIN="joao" LIVRO="1" />
+        <LIVRO_LIDO LOGIN="joao" LIVRO="2" />
+</dataset>
